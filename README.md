@@ -1,7 +1,7 @@
 # GAME_EXPLORER_
 NEXUS Chronicles – A React + Vite powered game explorer UI that lets users browse and filter games by genre with a clean and modern interface. Frontend-only project.
 
-<!--IMPORTANT INSTRUCTIONS-->
+<IMPORTANT INSTRUCTIONS>
   
 STEP 1: FIRSTLY SETUP A SIPLE REACT+VITE APPLICATION IN A NEW FOLDER ( GUIDE : INSTALL NODE AND NPM IN YOUR SYSYTEM CHECK VERSION USING COMMANDS "node -v" and "npm -v" IN COMMAND PROMPT THEN CHANGE DIRECTORY TO FOLDER WHERE YOU WANT TO SET UP YOUR REACT APP AND RUN A COMMAND "npm create vite@latest your-app-name" or simply"npx create-vite@latest your-app-name" 
   
